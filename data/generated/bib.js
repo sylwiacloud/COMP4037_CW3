@@ -13,5 +13,23 @@
         "url": "http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/vast15-survis.pdf",
         "volume": "22",
         "year": "2016"
+    },
+    "Kabir20243": {
+        "abstract": "Most of statistics and AI draw insights through modeling discord or variance between sources (i.e., intersource) of information. Increasingly however, research is focusing on uncertainty arising at the level of individual measurements (i.e., within- or intrasource), such as for a given sensor output or human response. Here, adopting intervals rather than numbers as the fundamental data-type provides an efficient, powerful, yet challenging way forward - offering systematic capture of uncertainty-at-source, increasing informational capacity, and ultimately potential for additional insight. Following progress in the capture of interval-valued data in particular from human participants, conducting machine learning directly upon intervals is a crucial next step. This article focuses on linear regression for interval-valued data as a recent growth area, providing an essential foundation for broader use of intervals in AI. We conduct an in-depth analysis of state-of-the-art methods, elucidating their behavior, advantages, and pitfalls when applied to synthetic and real-world datasets with different properties. Specific emphasis is given to the challenge of preserving mathematical coherence, i.e., models maintain fundamental mathematical properties of intervals. In support of real-world applicability of the regression methods, we introduce and demonstrate a novel visualization approach, the interval regression graph (IRG), which effectively communicates the impact of both position and range of variables within the regression models - offering a leap in their interpretability. Finally, this article provides practical recommendations concerning regression-method choice for interval data and highlights remaining challenges and important next steps for developing AI with the capacity to handle uncertainty-at-source.  \u00a9 2020 IEEE.",
+        "author": "Kabir, Shaily and Wagner, Christian and Ellerby, Zack",
+        "author_keywords": "Intersource; intervals; intrasource; regression; uncertainty",
+        "doi": "10.1109/TAI.2023.3234930",
+        "journal": "IEEE Transactions on Artificial Intelligence",
+        "keywords": "Artificial intelligence; Linear regression; Uncertainty analysis; Visualization; Inter-source; Interval; Interval regression; Interval-valued data; Intra-source; Real-world; Regression; Regression method; Uncertainty; Data visualization",
+        "note": "Cited by: 2; All Open Access, Green Open Access",
+        "number": "1",
+        "pages": "3 \u2013 22",
+        "publication_stage": "Final",
+        "source": "Scopus",
+        "title": "Toward Handling Uncertainty-At-Source in AI - A Review and Next Steps for Interval Regression",
+        "type": "ARTICLE Article",
+        "url": "https://www.scopus.com/inward/record.uri?eid",
+        "volume": "5",
+        "year": "2024"
     }
 }});

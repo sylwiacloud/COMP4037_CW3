@@ -1,7 +1,7 @@
 import os
 import json, codecs, time
 
-dataDir = "src/data/"
+dataDir = "data/"
 bibFile = "bib/references.bib"
 generatedDir = dataDir + "generated/"
 bibJsFile = generatedDir + "bib.js"
