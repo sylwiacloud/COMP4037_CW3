@@ -67,6 +67,28 @@
         "volume": "31",
         "year": "2010"
     },
+    "Giordani_2015": {
+        "abbrev_source_title": "Adv. Data Anal. Classif.",
+        "abstract": "A new method of regression analysis for interval-valued data is proposed. The relationship between an interval-valued response variable and a set of interval-valued explanatory variables is investigated by considering two regression models, one for the midpoints and the other one for the radii. The estimation problem is approached by introducing Lasso-based constraints on the regression coefficients. This can improve the prediction accuracy of the model and, taking into account the nature of the constraints, can sometimes produce a parsimonious model with a common subset of regression coefficients for the midpoint and the radius models. The effectiveness of our method, called Lasso-IR (Lasso-based Interval-valued Regression), is shown by a simulation experiment and some applications to real data. \u00a9 2014, Springer-Verlag Berlin Heidelberg.",
+        "affiliations": "Department of Statistical Sciences, Sapienza University of Rome, P.le Aldo Moro, 5, Rome, 00185, Italy",
+        "author": "Giordani, Paolo",
+        "author_keywords": "Interval-valued data; Lasso; Prediction accuracy; Regression",
+        "doi": "10.1007/s11634-014-0164-8",
+        "issn": "18625347",
+        "journal": "Advances in Data Analysis and Classification",
+        "language": "English",
+        "note": "Cited by: 32",
+        "number": "1",
+        "pages": "5 \u2013 19",
+        "publication_stage": "Final",
+        "publisher": "Springer Verlag",
+        "source": "Scopus",
+        "title": "Lasso-constrained regression analysis for interval-valued data",
+        "type": "ARTICLE Article",
+        "url": "https://www.scopus.com/inward/record.uri?eid",
+        "volume": "9",
+        "year": "2015"
+    },
     "Kabir_2024": {
         "abstract": "Most of statistics and AI draw insights through modeling discord or variance between sources (i.e., intersource) of information. Increasingly however, research is focusing on uncertainty arising at the level of individual measurements (i.e., within- or intrasource), such as for a given sensor output or human response. Here, adopting intervals rather than numbers as the fundamental data-type provides an efficient, powerful, yet challenging way forward - offering systematic capture of uncertainty-at-source, increasing informational capacity, and ultimately potential for additional insight. Following progress in the capture of interval-valued data in particular from human participants, conducting machine learning directly upon intervals is a crucial next step. This article focuses on linear regression for interval-valued data as a recent growth area, providing an essential foundation for broader use of intervals in AI. We conduct an in-depth analysis of state-of-the-art methods, elucidating their behavior, advantages, and pitfalls when applied to synthetic and real-world datasets with different properties. Specific emphasis is given to the challenge of preserving mathematical coherence, i.e., models maintain fundamental mathematical properties of intervals. In support of real-world applicability of the regression methods, we introduce and demonstrate a novel visualization approach, the interval regression graph (IRG), which effectively communicates the impact of both position and range of variables within the regression models - offering a leap in their interpretability. Finally, this article provides practical recommendations concerning regression-method choice for interval data and highlights remaining challenges and important next steps for developing AI with the capacity to handle uncertainty-at-source.  \u00a9 2020 IEEE.",
         "author": "Kabir, Shaily and Wagner, Christian and Ellerby, Zack",
