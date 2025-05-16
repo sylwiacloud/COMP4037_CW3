@@ -43,17 +43,17 @@
         "volume": "285",
         "year": "2013"
     },
-    "Domingues20101991": {
+    "Domingues_2010": {
         "abbrev_source_title": "Pattern Recogn. Lett.",
         "abstract": "This paper introduces a new linear regression method for interval valued-data. The method is based on the symmetrical linear regression methodology such that the prediction of the lower and upper bounds of the interval value of the dependent variable is not damaged by the presence of interval-valued data outliers. The method considers mid-points and ranges of the interval values assumed by the variables in the learning set. The prediction of the boundaries of an interval is accomplished through a combination of predictions from mid-point and range of the interval values. The evaluation of the method is based on the average behavior of a pooled root mean-square error. Experiments with real and simulated symbolic interval data sets demonstrate the usefulness of this symbolic symmetrical linear regression method. \u00a9 2010 Elsevier B.V. All rights reserved.",
         "affiliations": "Centro de Inform\u00e1tica, Universidade Federal de Pernambuco, Cidade Universit\u00e1ria, CEP 50740-540, Recife (PE), Av. Prof. Luiz Freire, s/n, Brazil; Departamento de Estatstica, CCEN, Universidade Federal de Pernambuco, CEP 50740-540, Recife (PE), Av. Prof. Luiz Freire, s/n, Brazil",
         "author": "Domingues, Marco A.O. and De Souza, Renata M.C.R. and Cysneiros, Francisco Jos\u00e9 A.",
-        "author_keywords": "Outliers; Symbolic data analysis; Symbolic interval-valued data; Symmetrical linear regression",
+        "author_keywords": "Outliers, Symbolic data analysis, Symbolic interval-valued data, Symmetrical linear regression",
         "correspondence_address": "R. M. C. R. De Souza; Centro de Inform\u00e1tica, Universidade Federal de Pernambuco, Cidade Universit\u00e1ria, CEP 50740-540, Recife (PE), Av. Prof. Luiz Freire, s/n, Brazil; email: rmcrs@cin.ufpe.br",
         "doi": "10.1016/j.patrec.2010.06.008",
         "issn": "01678655",
         "journal": "Pattern Recognition Letters",
-        "keywords": "Forecasting; Mean square error; Statistics; Dependent variables; Interval-valued data; Linear regression methods; Lower and upper bounds; Outliers; Root mean square errors; Symbolic data analysis; Symbolic interval-valued datum; Linear regression",
+        "keywords": "Forecasting, Mean square error, Statistics, Dependent variables, Interval-valued data, Linear regression methods, Lower and upper bounds, Outliers, Root mean square errors, Symbolic data analysis, Symbolic interval-valued datum, Linear regression",
         "language": "English",
         "note": "Cited by: 56",
         "number": "13",
@@ -92,10 +92,10 @@
     "Kabir_2024": {
         "abstract": "Most of statistics and AI draw insights through modeling discord or variance between sources (i.e., intersource) of information. Increasingly however, research is focusing on uncertainty arising at the level of individual measurements (i.e., within- or intrasource), such as for a given sensor output or human response. Here, adopting intervals rather than numbers as the fundamental data-type provides an efficient, powerful, yet challenging way forward - offering systematic capture of uncertainty-at-source, increasing informational capacity, and ultimately potential for additional insight. Following progress in the capture of interval-valued data in particular from human participants, conducting machine learning directly upon intervals is a crucial next step. This article focuses on linear regression for interval-valued data as a recent growth area, providing an essential foundation for broader use of intervals in AI. We conduct an in-depth analysis of state-of-the-art methods, elucidating their behavior, advantages, and pitfalls when applied to synthetic and real-world datasets with different properties. Specific emphasis is given to the challenge of preserving mathematical coherence, i.e., models maintain fundamental mathematical properties of intervals. In support of real-world applicability of the regression methods, we introduce and demonstrate a novel visualization approach, the interval regression graph (IRG), which effectively communicates the impact of both position and range of variables within the regression models - offering a leap in their interpretability. Finally, this article provides practical recommendations concerning regression-method choice for interval data and highlights remaining challenges and important next steps for developing AI with the capacity to handle uncertainty-at-source.  \u00a9 2020 IEEE.",
         "author": "Kabir, Shaily and Wagner, Christian and Ellerby, Zack",
-        "author_keywords": "Intersource; intervals; intrasource; regression; uncertainty",
+        "author_keywords": "Intersource, intervals, intrasource, regression, uncertainty",
         "doi": "10.1109/TAI.2023.3234930",
         "journal": "IEEE Transactions on Artificial Intelligence",
-        "keywords": "Artificial intelligence; Linear regression; Uncertainty analysis; Visualization; Inter-source; Interval; Interval regression; Interval-valued data; Intra-source; Real-world; Regression; Regression method; Uncertainty; Data visualization",
+        "keywords": "Artificial intelligence, Linear regression, Uncertainty analysis, Visualization, Inter-source, Interval, Interval regression, Interval-valued data, Intra-source, Real-world, Regression, Regression method, Uncertainty, Data visualization",
         "note": "Cited by: 2; All Open Access, Green Open Access",
         "number": "1",
         "pages": "3 \u2013 22",
